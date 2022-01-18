@@ -32,3 +32,15 @@ section{
     color: black;
     font-weight: 400;
 }
+#mission-22{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    
+    
+}
+
+
+    
+
+
